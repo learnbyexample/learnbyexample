@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm **Sundeep Agarwal**, author of 1️⃣ 0️⃣ [programming books](https://learnbyexample.github.io/books/) 📚 and counting 🚀.
+I'm **Sundeep Agarwal**, author of 1️⃣ 1️⃣ [programming books](https://learnbyexample.github.io/books/) 📚 and counting 🚀.
 
 I write about Regular Expressions, CLI one-liners, Scripting Languages and Vim. I also maintain several [curated resource lists](https://github.com/learnbyexample/scripting_course#curated-resources).
 
@@ -16,3 +16,16 @@ Follow me on [twitter](https://twitter.com/learn_byexample) for interesting tech
 
 📖 [Escapist reviews](https://learnbyexample.github.io/escapist-reviews/) — lists, reviews and other thoughts about fictional books (fantasy, sci-fi, etc)
 
+### Highlights ✨
+
+* Books
+    * [Python regular expressions](https://github.com/learnbyexample/py_regular_expressions)
+    * [GNU awk one-liners](https://github.com/learnbyexample/learn_gnuawk)
+* Blog posts
+    * [Customizing pandoc to generate beautiful pdf and epub from markdown](https://learnbyexample.github.io/customizing-pandoc/)
+    * [I know Python basics, what next?](https://learnbyexample.github.io/python-intermediate/)
+    * [Paying my bills with 'free' ebooks](https://learnbyexample.github.io/my-book-writing-experience/)
+    * [GNU BRE/ERE cheatsheet and differences between grep, sed and awk](https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/)
+* Tools
+    * [command_help](https://github.com/learnbyexample/command_help)
+    * [regexp-cut](https://github.com/learnbyexample/regexp-cut)
