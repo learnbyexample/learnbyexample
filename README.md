@@ -6,8 +6,6 @@ I write about Regular Expressions, CLI one-liners, Scripting Languages and Vim. 
 
 👉 You can buy PDF/EPUB versions of my books via [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample).
 
-📢 🐍 [The Indie Python Extravaganza](https://leanpub.com/b/theindiepythonextravaganza/c/pytober) bundle is free till 31-Oct-2021.
-
 Follow me on [twitter](https://twitter.com/learn_byexample) for interesting tech nuggets.
 
 ### Blogs ✍️
@@ -29,3 +27,4 @@ Follow me on [twitter](https://twitter.com/learn_byexample) for interesting tech
 * Tools
     * [command_help](https://github.com/learnbyexample/command_help)
     * [regexp-cut](https://github.com/learnbyexample/regexp-cut)
+    * [Practice Python regular expressions](https://github.com/learnbyexample/py_regular_expressions/tree/master/interactive_exercises)
