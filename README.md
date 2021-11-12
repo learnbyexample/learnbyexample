@@ -14,6 +14,10 @@ Follow me on [twitter](https://twitter.com/learn_byexample) for interesting tech
 
 📖 [Escapist reviews](https://learnbyexample.github.io/escapist-reviews/) — lists, reviews and other thoughts about fictional books (fantasy, sci-fi, etc)
 
+### Newsletter 📬
+
+[learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) — programming resources, deals and more, delivered every Friday
+
 ### Highlights ✨
 
 * Books
