@@ -6,6 +6,8 @@ I write about Regular Expressions, CLI one-liners, Scripting Languages and Vim. 
 
 👉 You can buy PDF/EPUB versions of my books via [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample).
 
+📢📢 **Python re(gex)?** is free till 31-Dec-2021 as part of 25 Days Of Regex challenge. See my [blog post](https://learnbyexample.github.io/python-25-days-of-regex/) for details.
+
 Follow me on [twitter](https://twitter.com/learn_byexample) for interesting tech nuggets.
 
 ### Blogs ✍️
