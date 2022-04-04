@@ -6,9 +6,7 @@ I write about Regular Expressions, CLI one-liners, Scripting Languages and Vim. 
 
 👉 You can buy PDF/EPUB versions of my books via [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample).
 
-📢📢 My 12th ebook **Vim Reference Guide** is FREE till 31-Mar-2022 and several of my ebooks are on sale, visit [Gumroad](https://learnbyexample.gumroad.com/l/vim_reference_guide) for details.
-
-Follow me on [twitter](https://twitter.com/learn_byexample) for interesting tech nuggets.
+Follow me on [twitter](https://twitter.com/learn_byexample) and [Youtube](https://www.youtube.com/channel/UCKdFGbeOUPYM9GocmrIFGcw/playlists) for interesting tech nuggets.
 
 ### Blogs ✍️
 
