@@ -6,6 +6,8 @@ I write about Regular Expressions, CLI one-liners, Scripting Languages and Vim. 
 
 👉 You can buy PDF/EPUB versions of my books via [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample).
 
+:loudspeaker: :loudspeaker: Use [this coupon link](https://learnbyexample.gumroad.com/l/all-books/HappyPrice) to get **All books bundle** with 25% discount.
+
 Follow me on [twitter](https://twitter.com/learn_byexample) and [Youtube](https://www.youtube.com/channel/UCKdFGbeOUPYM9GocmrIFGcw/playlists) for interesting tech nuggets.
 
 ### Blogs ✍️
