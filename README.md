@@ -8,7 +8,7 @@ I write about Regular Expressions, CLI one-liners, Scripting Languages and Vim. 
 
 :loudspeaker: :loudspeaker: Use [this coupon link](https://learnbyexample.gumroad.com/l/all-books/HappyPrice) to get **All books bundle** with 25% discount.
 
-Follow me on [twitter](https://twitter.com/learn_byexample) and [Youtube](https://www.youtube.com/channel/UCKdFGbeOUPYM9GocmrIFGcw/playlists) for interesting tech nuggets.
+:white_check_mark: Follow me on [twitter](https://twitter.com/learn_byexample) and [Youtube](https://www.youtube.com/c/learnbyexample42) for interesting tech nuggets.
 
 ### Blogs ✍️
 
@@ -16,9 +16,9 @@ Follow me on [twitter](https://twitter.com/learn_byexample) and [Youtube](https:
 
 📖 [Escapist reviews](https://learnbyexample.github.io/escapist-reviews/) — lists, reviews and other thoughts about fictional books (fantasy, sci-fi, etc)
 
-### Newsletter 📬
+### Newsletter 📧
 
-[learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) — free newsletter covering programming resources, tips, tools, deals and more, delivered every Friday
+Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) for programming resources, tips, tools, free ebooks and more. This is a free newsletter, delivered every Friday. You'll also get access to all the previous issues.
 
 ### Highlights ✨
 
@@ -34,6 +34,7 @@ Follow me on [twitter](https://twitter.com/learn_byexample) and [Youtube](https:
     * [GNU BRE/ERE cheatsheet and differences between grep, sed and awk](https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/)
     * [2021 was a wild ride](https://learnbyexample.github.io/wild-ride-2021/)
     * [Vim prank: alias vim='vim -y'](https://learnbyexample.github.io/mini/vim-prank/)
+    * [Python 3.11: possessive quantifiers and atomic grouping added to re module](https://learnbyexample.github.io/python-regex-possessive-quantifier/)
 * Tools
     * [command_help](https://github.com/learnbyexample/command_help)
     * [regexp-cut](https://github.com/learnbyexample/regexp-cut)
