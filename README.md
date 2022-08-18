@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-I'm **Sundeep Agarwal**, author of [12 programming books](https://learnbyexample.github.io/books/) 📚 and counting 🚀.
+I'm **Sundeep Agarwal**, author of [12 programming ebooks](https://learnbyexample.github.io/books/) 📚 and devourer of fantasy books 🧙
 
-I write about Regular Expressions, CLI one-liners, Scripting Languages and Vim. I also maintain several [curated resource lists](https://github.com/learnbyexample/scripting_course#curated-resources).
+I write about Regular Expressions, Linux CLI one-liners, Scripting Languages and Vim. I also maintain several [curated resource lists](https://github.com/learnbyexample/scripting_course#curated-resources).
 
 👉 You can buy PDF/EPUB versions of my books via [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample).
 
@@ -27,6 +27,7 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
     * [GNU awk one-liners](https://github.com/learnbyexample/learn_gnuawk)
     * [Command line text processing with GNU Coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils)
     * [Vim Reference Guide](https://github.com/learnbyexample/vim_reference)
+    * [Computing from the Command Line](https://github.com/learnbyexample/cli-computing)
 * Blog posts
     * [Customizing pandoc to generate beautiful pdf and epub from markdown](https://learnbyexample.github.io/customizing-pandoc/)
     * [I know Python basics, what next?](https://learnbyexample.github.io/python-intermediate/)
