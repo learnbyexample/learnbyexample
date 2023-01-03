@@ -33,9 +33,9 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
     * [I know Python basics, what next?](https://learnbyexample.github.io/python-intermediate/)
     * [Paying my bills with 'free' ebooks](https://learnbyexample.github.io/my-book-writing-experience/)
     * [GNU BRE/ERE cheatsheet and differences between grep, sed and awk](https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/)
-    * [2021 was a wild ride](https://learnbyexample.github.io/wild-ride-2021/)
     * [Vim prank: alias vim='vim -y'](https://learnbyexample.github.io/mini/vim-prank/)
     * [Python 3.11: possessive quantifiers and atomic grouping added to re module](https://learnbyexample.github.io/python-regex-possessive-quantifier/)
+    * [2022: year in perspective](https://learnbyexample.github.io/2022-year-in-perspective/)
 * Tools
     * [command_help](https://github.com/learnbyexample/command_help)
     * [regexp-cut](https://github.com/learnbyexample/regexp-cut)
