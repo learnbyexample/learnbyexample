@@ -6,7 +6,7 @@ I write about Regular Expressions, Linux CLI one-liners, Scripting Languages and
 
 👉 You can buy PDF/EPUB versions of my books via [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample).
 
-:loudspeaker: :loudspeaker: Year End Sale: Use [this coupon link](https://learnbyexample.gumroad.com/l/all-books/NewYearSale) to get **All books bundle** for just $10 (normal price $28).
+:loudspeaker: :loudspeaker: Use [this coupon link](https://learnbyexample.gumroad.com/l/all-books/HappyPrice) to get **All books bundle** with 25% discount.
 
 :white_check_mark: Follow me on [twitter](https://twitter.com/learn_byexample) and [Youtube](https://www.youtube.com/c/learnbyexample42) for interesting tech nuggets.
 
