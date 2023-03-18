@@ -39,7 +39,7 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
 * Tools
     * [command_help](https://github.com/learnbyexample/command_help)
     * [regexp-cut](https://github.com/learnbyexample/regexp-cut)
-    * [Practice Python regular expressions](https://github.com/learnbyexample/py_regular_expressions/tree/master/interactive_exercises)
+    * [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/blob/main/PyRegexExercises)
     * [Linux CLI Text Processing Exercises](https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises)
     * [Python re(gex)? playground](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexPlayground)
 
