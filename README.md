@@ -24,10 +24,9 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
 
 * Books
     * [Understanding Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions)
-    * [GNU awk one-liners](https://github.com/learnbyexample/learn_gnuawk)
-    * [Command line text processing with GNU Coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils)
-    * [Vim Reference Guide](https://github.com/learnbyexample/vim_reference)
     * [Computing from the Command Line](https://github.com/learnbyexample/cli-computing)
+    * [CLI text processing with GNU awk](https://github.com/learnbyexample/learn_gnuawk)
+    * [Vim Reference Guide](https://github.com/learnbyexample/vim_reference)
 * Blog posts
     * [Customizing pandoc to generate beautiful pdf and epub from markdown](https://learnbyexample.github.io/customizing-pandoc/)
     * [I know Python basics, what next?](https://learnbyexample.github.io/python-intermediate/)
@@ -39,8 +38,10 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
 * Tools
     * [command_help](https://github.com/learnbyexample/command_help)
     * [regexp-cut](https://github.com/learnbyexample/regexp-cut)
-    * [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/blob/main/PyRegexExercises)
+    * [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises)
     * [Linux CLI Text Processing Exercises](https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises)
     * [Python re(gex)? playground](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexPlayground)
+    * [Grep exercises](https://github.com/learnbyexample/TUI-apps/tree/main/GrepExercises)
+    * [Sed exercises](https://github.com/learnbyexample/TUI-apps/tree/main/SedExercises)
 
 ℹ️ You can read more about me in this [PyDev of the Week](https://www.blog.pythonlibrary.org/2022/01/31/pydev-of-the-week-sundeep-agarwal/) interview.
