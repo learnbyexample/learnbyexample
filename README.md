@@ -43,5 +43,6 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
     * [Python re(gex)? playground](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexPlayground)
     * [Grep exercises](https://github.com/learnbyexample/TUI-apps/tree/main/GrepExercises)
     * [Sed exercises](https://github.com/learnbyexample/TUI-apps/tree/main/SedExercises)
+    * [Awk exercises](https://github.com/learnbyexample/TUI-apps/tree/main/AwkExercises)
 
 ℹ️ You can read more about me in this [PyDev of the Week](https://www.blog.pythonlibrary.org/2022/01/31/pydev-of-the-week-sundeep-agarwal/) interview.
