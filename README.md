@@ -18,7 +18,7 @@ I write about Regular Expressions, Linux CLI one-liners, Scripting Languages and
 
 ### Newsletter 📧
 
-Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) for programming resources, tips, tools, free ebooks and more. This is a free newsletter, delivered every Friday. You'll also get access to all the previous issues.
+Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) for programming resources, tools, free ebooks and more. This is a free newsletter, delivered every Friday. You'll also get access to all the previous issues.
 
 ### Highlights ✨
 
@@ -27,6 +27,7 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
     * [Computing from the Command Line](https://github.com/learnbyexample/cli-computing)
     * [CLI text processing with GNU awk](https://github.com/learnbyexample/learn_gnuawk)
     * [Vim Reference Guide](https://github.com/learnbyexample/vim_reference)
+    * [Understanding JavaScript RegExp](https://github.com/learnbyexample/learn_js_regexp)
 * Blog posts
     * [Customizing pandoc to generate beautiful pdf and epub from markdown](https://learnbyexample.github.io/customizing-pandoc/)
     * [I know Python basics, what next?](https://learnbyexample.github.io/python-intermediate/)
@@ -45,4 +46,4 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
     * [Sed exercises](https://github.com/learnbyexample/TUI-apps/tree/main/SedExercises)
     * [Awk exercises](https://github.com/learnbyexample/TUI-apps/tree/main/AwkExercises)
 
-ℹ️ You can read more about me in this [PyDev of the Week](https://www.blog.pythonlibrary.org/2022/01/31/pydev-of-the-week-sundeep-agarwal/) interview.
+🛈 You can read more about me in this [PyDev of the Week](https://www.blog.pythonlibrary.org/2022/01/31/pydev-of-the-week-sundeep-agarwal/) interview.
