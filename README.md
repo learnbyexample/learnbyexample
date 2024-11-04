@@ -4,9 +4,7 @@ I'm **Sundeep Agarwal**, author of [several programming ebooks](https://learnbye
 
 I write about Regular Expressions, Linux CLI one-liners, Scripting Languages and Vim. I also maintain several [curated resource lists](https://github.com/learnbyexample/scripting_course#curated-resources).
 
-👉 You can buy PDF/EPUB versions of my books via [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample).
-
-:loudspeaker: :loudspeaker: Use [this coupon link](https://learnbyexample.gumroad.com/l/all-books/HappyPrice) to get **All books bundle** with 25% discount.
+👉 You can buy PDF/EPUB versions of my books via [Leanpub](https://leanpub.com/u/learnbyexample) or [Gumroad](https://learnbyexample.gumroad.com/).
 
 :white_check_mark: Follow me on [twitter](https://twitter.com/learn_byexample) and [Youtube](https://www.youtube.com/c/learnbyexample42) for interesting tech nuggets.
 
@@ -37,14 +35,17 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
     * [Python 3.11: possessive quantifiers and atomic grouping added to re module](https://learnbyexample.github.io/python-regex-possessive-quantifier/)
     * [Python Regex Surprises](https://learnbyexample.github.io/python-regex-surprises/)
     * [2023: year in perspective](https://learnbyexample.github.io/2023-year-in-perspective/)
+    * [CLI computation with GNU datamash](https://learnbyexample.github.io/cli-computation-gnu-datamash/)
 * Tools
     * [command_help](https://github.com/learnbyexample/command_help)
     * [regexp-cut](https://github.com/learnbyexample/regexp-cut)
     * [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises)
+    * [Python Exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PythonExercises)
     * [Linux CLI Text Processing Exercises](https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises)
     * [Python re(gex)? playground](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexPlayground)
     * [Grep exercises](https://github.com/learnbyexample/TUI-apps/tree/main/GrepExercises)
     * [Sed exercises](https://github.com/learnbyexample/TUI-apps/tree/main/SedExercises)
     * [Awk exercises](https://github.com/learnbyexample/TUI-apps/tree/main/AwkExercises)
+    * [Awk Tutorial](https://github.com/learnbyexample/TUI-apps/tree/main/AwkTutorial)
 
 🛈 You can read more about me in this [PyDev of the Week](https://www.blog.pythonlibrary.org/2022/01/31/pydev-of-the-week-sundeep-agarwal/) interview.
