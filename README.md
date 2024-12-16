@@ -4,7 +4,7 @@ I'm **Sundeep Agarwal**, author of [several programming ebooks](https://learnbye
 
 I write about Regular Expressions, Linux CLI one-liners, Scripting Languages and Vim. I also maintain several [curated resource lists](https://github.com/learnbyexample/scripting_course#curated-resources).
 
-👉 You can buy PDF/EPUB versions of my books via [Leanpub](https://leanpub.com/u/learnbyexample) or [Gumroad](https://learnbyexample.gumroad.com/).
+👉 You can buy PDF/EPUB versions of my books via [Leanpub](https://leanpub.com/b/learnbyexample-all-books) or [Gumroad](https://learnbyexample.gumroad.com/).
 
 :white_check_mark: Follow me on [twitter](https://twitter.com/learn_byexample) and [Youtube](https://www.youtube.com/c/learnbyexample42) for interesting tech nuggets.
 
@@ -22,7 +22,7 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
 
 * Books
     * [Understanding Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions)
-    * [Computing from the Command Line](https://github.com/learnbyexample/cli-computing)
+    * [Linux Command Line Computing](https://github.com/learnbyexample/cli-computing)
     * [CLI text processing with GNU awk](https://github.com/learnbyexample/learn_gnuawk)
     * [Vim Reference Guide](https://github.com/learnbyexample/vim_reference)
     * [Understanding JavaScript RegExp](https://github.com/learnbyexample/learn_js_regexp)
