@@ -34,8 +34,8 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
     * [Vim prank: alias vim='vim -y'](https://learnbyexample.github.io/mini/vim-prank/)
     * [Python 3.11: possessive quantifiers and atomic grouping added to re module](https://learnbyexample.github.io/python-regex-possessive-quantifier/)
     * [Python Regex Surprises](https://learnbyexample.github.io/python-regex-surprises/)
-    * [2023: year in perspective](https://learnbyexample.github.io/2023-year-in-perspective/)
     * [CLI computation with GNU datamash](https://learnbyexample.github.io/cli-computation-gnu-datamash/)
+    * [Coloring matched portions with GNU grep, sed and awk](https://learnbyexample.github.io/coloring-matched-portions-grep-sed-awk/)
 * Tools
     * [command_help](https://github.com/learnbyexample/command_help)
     * [regexp-cut](https://github.com/learnbyexample/regexp-cut)
