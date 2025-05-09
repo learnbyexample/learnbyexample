@@ -37,6 +37,7 @@ Subscribe to [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnb
     * [CLI computation with GNU datamash](https://learnbyexample.github.io/cli-computation-gnu-datamash/)
     * [Coloring matched portions with GNU grep, sed and awk](https://learnbyexample.github.io/coloring-matched-portions-grep-sed-awk/)
     * [awk idioms explained](https://learnbyexample.github.io/awk-idioms-explained/)
+    * [Everything you need to know about sed substitution](https://learnbyexample.github.io/everything-about-sed-substitution/)
 * Tools
     * [command_help](https://github.com/learnbyexample/command_help)
     * [regexp-cut](https://github.com/learnbyexample/regexp-cut)
